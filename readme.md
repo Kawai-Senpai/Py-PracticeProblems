@@ -65,3 +65,11 @@ Contributions are welcome! If you have helpful questions or solutions to add, fe
 If you find this repository helpful, please give it a star!
 
 Happy coding!
+
+```markdown
+--.   --..,_   _,.--.   --..,_   _,.--.   --..,_   _,.--.   --..,
+o  `;__. `'.:'`__ o  `;__. `'.:'`__ o  `;__. `'.:'`__ o  `;__. `' .
+---'`  `  .'.:`. '---'`  `  .'.:`. '---'`  `  .'.:`. '---'`  `  .'.
+--....--'`.'  '.`'--....--'`.'  '.`'--....--'`.'  '.`'--....--'`.'
+--....--'`      `'--....--'`      `'--....--'`      `'--....--'`    
+```
