@@ -1,3 +1,4 @@
+# Question: Rotate an NxN matrix 90 degrees clockwise and store the result in a new matrix.
 
 matrix = [
     [1, 2, 3],

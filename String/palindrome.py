@@ -1,3 +1,4 @@
+# Question: Check if a given string is a palindrome, ignoring case and spaces.
 
 def normalize(str):
     return str.lower().replace(' ','')

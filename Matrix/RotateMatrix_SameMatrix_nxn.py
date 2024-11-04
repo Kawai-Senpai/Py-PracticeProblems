@@ -1,3 +1,4 @@
+# Question: Rotate an NxN matrix 90 degrees clockwise in place.
 
 matrix = [
     [1, 2, 3],
