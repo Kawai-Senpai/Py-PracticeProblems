@@ -1,9 +1,33 @@
-```markdown
 # 🐍 Python Programming Practice
 
 Welcome to this repository of **Python programming questions** designed to help you prepare for technical interviews!
 
 ## 📘 About
+
+```markdown
+            *     ,MMM8&&&.            *
+                  MMMM88&&&&&    .
+                 MMMM88&&&&&&&
+     *           MMM88&&&&&&&&
+                 MMM88&&&&&&&&
+                 'MMM88&&&&&&'
+                   'MMM8&&&'      *    
+          |\___/|     /\___/\
+          )     (     )    ~( .              '
+         =\     /=   =\~    /=
+           )===(       ) ~ (
+          /     \     /     \
+          |     |     ) ~   (
+         /       \   /     ~ \
+         \       /   \~     ~/
+  jgs_/\_/\__  _/_/\_/\__~__/_/\_/\_/\_/\_/\_
+  |  |  |  |( (  |  |  | ))  |  |  |  |  |  |
+  |  |  |  | ) ) |  |  |//|  |  |  |  |  |  |
+  |  |  |  |(_(  |  |  (( |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |\)|  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  
+```
 
 This collection was created by [*Ranit Bhowmick*](https://www.linkedin.com/in/ranitbhowmick/) & [*Sayanti Chatterjee*](https://www.linkedin.com/in/sayantichatterjee/) to help you sharpen your Python skills with a variety of practice questions. Whether you're a beginner or an experienced programmer, these challenges will help you get ready for your next technical interview.
 
@@ -41,5 +65,3 @@ Contributions are welcome! If you have helpful questions or solutions to add, fe
 If you find this repository helpful, please give it a star!
 
 Happy coding!
-
-```
